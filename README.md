@@ -24,6 +24,8 @@ Fun facts
 - 🧩 Favorite challenge: make it simple without losing speed
 - 🎧 Background music: Any good old songs
 
+https://streak-stats.demolab.com/?user=joseph456d&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5
+
 Find me
 - X (Twitter): https://x.com/Joseph456D
 
