@@ -1,31 +1,47 @@
-# 👋 Joseph456D
-Computer Science Graduate · Python 🐍 · C / C++ ⚙️ · Java ☕
+# 👋 Heyo
 
-I turn ideas into clean, efficient code — small projects, big learning. 🚀
+
+<p align="center" style="font-size: 20px;"><b>It's me Joseph</b></p>
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=joseph456d&left_text=Views" />
+
+Just a Computer Science Graduate coding away for fun <br>
+Vibe Coding till I get Bored or Tired
 
 ───────────── ✦ ─────────────
+</div>
 
-About
-- Likes to code, solve puzzles, and squeeze performance from tricky problems. Loves tiny, elegant solutions that scale.
+What do I do
 
-What I do
 - Build small tools and experiments in Python and C/C++.
 - Optimize, debug, and document — code that’s readable and fast.
 - Learn by shipping: short projects → big lessons.
 
-Quick peek
-- Languages: Python 🐍 · C / C++ ⚙️ · Java ☕
-- Tools: Git · Linux 🐧 · gdb 🐞 · VS Code
-- Interests: competitive programming, systems, automation
+### Languages and Tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,arduino,bash,html,css,discord,flask,git,github,gtk,java,js,linkedin,md,mysql,opencv,php,powershell,stackoverflow,vscode,windows,linux&perline=8" alt="Languages and Tools" />
+  </a>
+</p>
 
-Fun facts
-- 🔭 Currently exploring: low-level optimization and embedded hacks
-- 🧩 Favorite challenge: make it simple without losing speed
-- 🎧 Background music: Any good old songs
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/Joseph456D">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph456D&layout=compact&theme=algolia&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph456D&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-Find me
-- X (Twitter): https://x.com/Joseph456D
+<div align="center">
+<h2 align="left">Connect with Me 🌎</h2>
+<a href="https://x.com/Joseph456D">
+<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJoseph456D
+"alt=X(Twitter) style="margin-bottom: 5px;" />
+</a>
 
 ───────────── ✦ ─────────────
+
+</div>
