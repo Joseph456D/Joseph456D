@@ -36,11 +36,6 @@ What do I do
 </p>
 
 <div align="center">
-<h2 align="left">Connect with Me 🌎</h2>
-<a href="https://x.com/Joseph456D">
-<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJoseph456D
-"alt=X(Twitter) style="margin-bottom: 5px;" />
-</a>
 
 ───────────── ✦ ─────────────
 
