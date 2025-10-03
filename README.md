@@ -3,7 +3,7 @@
 
 <p align="center" style="font-size: 20px;"><b>It's me Joseph</b></p>
 <div align="center">
-
+### It's me Joseph <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=joseph456d&left_text=Views" />
 
 Just a Computer Science Graduate coding away for fun <br>
