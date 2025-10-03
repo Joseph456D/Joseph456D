@@ -1,7 +1,7 @@
 # 👋 Heyo
 
 
-<p align="center" style="font-size: 40px;"><b>It's me Joseph</b></p>
+<p align="center" style="font-size: 50px;"><b>It's me Joseph</b></p>
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=joseph456d&left_text=Views" />
 
