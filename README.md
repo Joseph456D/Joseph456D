@@ -3,8 +3,9 @@
 <p align="center" style="font-size: 30px;"><b>It's me Joseph</b></p>
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=joseph456d&left_text=Views" />
+<a href="https://x.com/Joseph456D">
 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJoseph456D&label=Follow&labelColor=Black">
-
+</a>
 Just a Computer Science Graduate coding away for fun <br>
 Vibe Coding till I get Bored or Tired
 
